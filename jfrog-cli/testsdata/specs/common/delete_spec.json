@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "pattern": "jfrog-cli-tests-repo1/",
+      "recursive": "true"
+    },
+    {
+      "pattern": "jfrog-cli-tests-repo2/",
+      "recursive": "true"
+    },
+    {
+      "pattern": "jfrog-cli-tests-lfs-repo/",
+      "recursive": "true"
+    }
+  ]
+}
